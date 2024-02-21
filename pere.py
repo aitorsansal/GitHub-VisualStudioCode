@@ -29,7 +29,9 @@ def AngelFunc():
 
 
 def VictorFunc():
-    print("Victor")
+    print("Ingresa el teu nom:")
+    nom=input()
+    print(f"En Pere ha creat una branca per en{nom}")
 
 
 def ManuFunc():
